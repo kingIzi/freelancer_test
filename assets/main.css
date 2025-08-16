@@ -1,0 +1,16 @@
+/* App-wide styling */
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+/* @view-transition {
+  navigation: auto;
+} */
+
+/* ::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 5s;
+} */
